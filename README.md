@@ -10,18 +10,18 @@
 
 **Here are the listed thing that i tried to get it done through this project : **<br />
 
-                                                           1.***What is the best month for sale?***<br />
-                                                           2.***Which city has max order?***<br />
-                                                           3.***What time should we display advertisements to maximise for product purchase?***<br />
-                                                           4.***What product sold the most?***<br />
-                                                           5.***What products are most often sold together?***<br />
+                                                           1.***What is the best month for sale?***  
+                                                           2.***Which city has max order?***  
+                                                           3.***What time should we display advertisements to maximise for product purchase?***  
+                                                           4.***What product sold the most?***  
+                                                           5.***What products are most often sold together?***  
                                                            
 
 **As inside project i was using some methods so you can get to knew about those throught the downgiven links :** <br />
 
-                                                                                    1. ***String Slicing*** : https://www.geeksforgeeks.org/string-slicing-in-python/   <br />
-                                                                                    2. ***Plotly*** : https://plotly.com/python/ <br />
-                                                                                    3. ***Group By*** : https://realpython.com/pandas-groupby/   <br />
+                                                                                    1. ***String Slicing*** : https://www.geeksforgeeks.org/string-slicing-in-python/   
+                                                                                    2. ***Plotly*** : https://plotly.com/python/   
+                                                                                    3. ***Group By*** : https://realpython.com/pandas-groupby/   
 
 *Inside code  file i had described briefly about what i am doing in each step so that will be helpful too.*<br />
 
