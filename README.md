@@ -19,9 +19,9 @@
 
 **As inside project i was using some methods so you can get to knew about those throught the downgiven links :** <br />
 
-                                                                                    1. ***String Slicing*** : https://www.geeksforgeeks.org/string-slicing-in-python/   
-                                                                                    2. ***Plotly*** : https://plotly.com/python/   
-                                                                                    3. ***Group By*** : https://realpython.com/pandas-groupby/   
+                                                           1. ***String Slicing*** : https://www.geeksforgeeks.org/string-slicing-in-python/   
+                                                           2. ***Plotly*** : https://plotly.com/python/   
+                                                           3. ***Group By*** : https://realpython.com/pandas-groupby/   
 
 *Inside code  file i had described briefly about what i am doing in each step so that will be helpful too.*<br />
 
