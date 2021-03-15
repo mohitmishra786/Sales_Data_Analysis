@@ -6,7 +6,7 @@
 <br />
 *In this project i tried to do some Data analysis work.*<br />
 <br />
-*THe Dataset  required to go through this project is already provided in file.*<br />
+*THe Dataset  required to go through this project is already provided in file name "sales_datasets".*<br />
 
 ***Here are the listed thing that i tried to get it done through this project***: 
 <br />
